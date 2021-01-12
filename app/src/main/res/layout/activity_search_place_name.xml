@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@drawable/second_bagrd"
+    tools:context=".SearchPlaceNameActivity">
+
+    <TextView
+        android:id="@+id/Manage_city"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="25dp"
+        android:text="@string/manage_cities"
+        android:textSize="36sp" />
+
+
+    <EditText
+        android:id="@+id/search_city_by_name"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_below="@id/Manage_city"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="25dp"
+        android:inputType="textNoSuggestions"
+        android:maxLength="30"
+        android:textColor="#131414"
+        android:maxLines="1"
+        android:textColorHint="#0e0f0f"
+        android:layout_toStartOf="@id/icon_search"
+        android:background="@drawable/search_bgrd"
+        android:elevation="4dp"
+        android:hint="@string/search_city"
+        android:paddingStart="15dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp" />
+
+    <ImageView
+        android:id="@+id/icon_search"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:layout_below="@id/Manage_city"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="25dp"
+        android:background="@drawable/search_icon_bg"
+        android:elevation="4dp"
+        android:paddingStart="5dp"
+        android:paddingTop="10dp"
+        android:paddingEnd="5dp"
+        android:paddingBottom="10dp"
+        android:src="@drawable/ic_search" />
+
+
+</RelativeLayout>

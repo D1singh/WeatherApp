@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RetrOne</string>
+    <string name="degreelogo">DegreeLogo</string>
+    <string name="c">C</string>
+    <string name="manage_cities">Manage Cities</string>
+    <string name="search_city">Search city</string>
+    <string name="pressure">Pressure</string>
+    <string name="chance_of_rain">Chance of rain</string>
+    <string name="real_feel">Real feel</string>
+    <string name="uv_index">UV index</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="sunrise">sunrise</string>
+    <string name="sunset">sunset</string>
+    <string name="moonrise">moonrise</string>
+    <string name="moonset">moonset</string>
+    <string name="moonphase">moonPhase</string>
+    <string name="fullmoon">fullmoon</string>
+    <string name="_07_15_am">07:15 AM</string>
+    <string name="_05_44_pm">05:44 PM</string>
+    <string name="_04_50_pm">04:50 PM</string>
+    <string name="_06_23_am">06:23 AM</string>
+</resources>
