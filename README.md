@@ -4,3 +4,8 @@
 
 Here We can search for cities by their name.
 ![1610493869554](https://user-images.githubusercontent.com/56579935/104394141-fe39e200-556b-11eb-8aec-b9eca7291803.jpg)
+
+The Data provided by Weather API
+ you can search by click on the given link(https://www.weatherapi.com/).
+ 
+ the icons are downloaded from (www.flaticon.com)
