@@ -6,6 +6,8 @@
 ![1610493869550](https://user-images.githubusercontent.com/56579935/104396629-0ba59b00-5571-11eb-80cb-0dbdb14b46a8.jpg)
 
 Here We can search for cities by their name.
+![1610493869554](https://user-images.githubusercontent.com/56579935/104396857-7d7de480-5571-11eb-8799-55cc0f845d8c.jpg)
+
 
 The Data provided by Weather API
  you can search by click on the given link(https://www.weatherapi.com/).
