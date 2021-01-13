@@ -4,10 +4,11 @@
 
 
 ![1610493869550](https://user-images.githubusercontent.com/56579935/104396629-0ba59b00-5571-11eb-80cb-0dbdb14b46a8.jpg)
-	
-	
+
+
 Here We can search for cities by their name.
-![1610493869554](https://user-images.githubusercontent.com/56579935/104396676-27a93c80-5571-11eb-9f83-4392277cca36.jpg)
+
+
 
 
 The Data provided by Weather API
